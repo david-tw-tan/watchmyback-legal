@@ -75,7 +75,7 @@ We may update this privacy policy from time to time. Any changes will be posted 
 ## Contact Us
 
 If you have questions about this privacy policy or the app, contact us at:
-- **Email**: david.tw.tan@gmail.com
+- **Email**: davidapps.contact@gmail.com
 - **Website**: https://david-tw-tan.github.io/watch-my-back-legal
 
 ---
